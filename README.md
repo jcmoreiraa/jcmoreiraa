@@ -28,7 +28,7 @@ Sou **Júlio César**, um desenvolvedor full-stack apaixonado por explorar os li
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" width="70" height="70" />
 </div>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=jcmoreiraa&layout=compact&theme=radical&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmoreiraa&layout=compact&theme=radical&hide_border=true)
 
 
 
