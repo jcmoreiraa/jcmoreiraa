@@ -40,9 +40,5 @@ Sou **Júlio César**, um desenvolvedor full-stack e gosto muito de explorar a t
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmoreiraa&layout=compact&theme=merko&hide_border=true)
 
-### 📊 My stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jcmoreiraa&show_icons=true&theme=radical&hide_border=true)
 
-
----
 
