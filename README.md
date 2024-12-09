@@ -41,6 +41,7 @@ Sou **Júlio César**, um desenvolvedor full-stack e gosto muito de explorar a t
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmoreiraa&layout=compact&theme=merko&hide_border=true)
 
 ### 📊 My stats
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=jcmoreiraa&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmoreiraa&show_icons=true&theme=tokyonight)
 
