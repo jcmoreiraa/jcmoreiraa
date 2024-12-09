@@ -11,7 +11,7 @@ Sou **Júlio César**, um desenvolvedor full-stack. Bem-vindo ao meu perfil!
 ---
 
 ### 🌱 Estudando e Aprimorando
-- **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express** e Tokens de acesso com **JWT**.
+- **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express**, **PostgreSQL** e Tokens de acesso com **JWT**.
 - **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js** e **TypeScript**.
 - Explorando **Ruby on Rails** para criar sistemas, como um para gestão local.
 - Explorando **containerização** e **deploys** utilizando **Docker** e plataformas como **Vercel** e **Render**.
@@ -31,6 +31,8 @@ Sou **Júlio César**, um desenvolvedor full-stack. Bem-vindo ao meu perfil!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" title="Rails" width="50" height="50"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"  />
+
 
 
 </p>
