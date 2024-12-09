@@ -6,20 +6,15 @@ Sou **Júlio César**, um desenvolvedor full-stack apaixonado por explorar os li
 
 ### 🔭 Projetos Atuais
 - **Atipicidados**: Um projeto full-stack que auxilia a comunidade externa, unindo impacto social e tecnologia.
-- Pesquisa sobre **Redes Definidas por Software (SDN)** utilizando Mininet e Mininet-WiFi, com foco em redes sem fio e mobilidade.
+- Pesquisa sobre **Redes Definidas por Software (SDN)** utilizando Mininet-WiFi, com foco em redes sem fio e mobilidade.
 
 ---
 
 ### 🌱 Estudando e Aprimorando
-- **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma** e Tokens de acesso.
+- **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express** e Tokens de acesso com **JWT**.
 - **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js** e **TypeScript**.
 - Explorando **Ruby on Rails** para criar sistemas eficientes, como um sistema local para gestão.
 - Explorando **containerização** e **deploys** utilizando Docker e plataformas como **Vercel** e **Render**.
-
----
-
-### 💬 Me Pergunte Sobre
-- **SDN** e ferramentas de simulação de redes como **Mininet-WiFi**.
 
 ---
 
