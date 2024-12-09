@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou **Júlio César**, um desenvolvedor full-stack apaixonado por explorar os limites da tecnologia. Bem-vindo ao meu perfil!
+Sou **Júlio César**, um desenvolvedor full-stack e gosto muito de explorar a tecnologia. Bem-vindo ao meu perfil!
 
 ---
 
