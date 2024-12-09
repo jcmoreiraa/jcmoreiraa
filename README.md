@@ -24,12 +24,13 @@ Sou **Júlio César**, um desenvolvedor full-stack apaixonado por explorar os li
 ---
 
 ### ⚙️ Tecnologias que Utilizo
-<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="50" height="50" />
 </div>
+
 
 ---
 
