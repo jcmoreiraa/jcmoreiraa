@@ -42,5 +42,5 @@ Sou **Júlio César**, um desenvolvedor full-stack e gosto muito de explorar a t
 
 ### 📊 My stats
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokyonight&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmoreiraa&show_icons=true&theme=tokyonight)
 
