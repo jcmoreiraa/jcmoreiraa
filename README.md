@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou **Júlio César**, um desenvolvedor full-stack e gosto muito de explorar a tecnologia. Bem-vindo ao meu perfil!
+Sou **Júlio César**, um desenvolvedor full-stack. Bem-vindo ao meu perfil!
 
 ---
 
@@ -13,8 +13,8 @@ Sou **Júlio César**, um desenvolvedor full-stack e gosto muito de explorar a t
 ### 🌱 Estudando e Aprimorando
 - **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express** e Tokens de acesso com **JWT**.
 - **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js** e **TypeScript**.
-- Explorando **Ruby on Rails** para criar sistemas eficientes, como um sistema local para gestão.
-- Explorando **containerização** e **deploys** utilizando Docker e plataformas como **Vercel** e **Render**.
+- Explorando **Ruby on Rails** para criar sistemas, como um para gestão local.
+- Explorando **containerização** e **deploys** utilizando **Docker** e plataformas como **Vercel** e **Render**.
 
 ---
 
