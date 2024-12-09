@@ -20,6 +20,8 @@ Sou **Júlio César**, um desenvolvedor full-stack. Bem-vindo ao meu perfil!
 
 ### 📫 Como Entrar em Contato
 - **Email**: [juliomoreira0111@gmail.com](mailto:juliomoreira0111@gmail.com)
+- **Email**: [juliomoreira@ufba.br](mailto:juliomoreira@ufba.br)
+
 
 ---
 
