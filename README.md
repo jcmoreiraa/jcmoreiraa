@@ -12,10 +12,9 @@ Sou **Júlio César**, um desenvolvedor full-stack. Bem-vindo ao meu perfil!
 
 ### 🌱 Estudando e Aprimorando
 - **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express**, **PostgreSQL** e Tokens de acesso com **JWT**.
-- **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js** e **TypeScript**.
+- **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js**, **TypeScript** e trabalhando diretamente com **Drupal**, o CMS em PHP.
 - Explorando **Ruby on Rails** para pequenos sistemas, como gestão local. 
 - Explorando **containerização** e **deploys** utilizando **Docker** e plataformas como **Vercel** e **Render**.
-- Trabalhando diretamente com **Drupal**, o CMS em PHP, para web.
 
 
 
