@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou **Júlio César**, um desenvolvedor full-stack. Bem-vindo ao meu perfil!
+Sou **Júlio César**, um estudante de **Ciência da Computação**. Bem vindos ao meu perfil!
 
 ---
 
