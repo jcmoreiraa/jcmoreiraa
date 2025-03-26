@@ -6,7 +6,6 @@ Sou **Júlio César**, um estudante de **Ciência da Computação**. Bem vindos 
 
 ### 🔭 Projetos Atuais
 - **Atipicidados**: Um projeto full-stack que auxilia a comunidade externa, unindo impacto social e tecnologia.
-- Pesquisa sobre **Redes Definidas por Software (SDN)** utilizando Mininet-WiFi, com foco em redes sem fio e mobilidade.
 - **Estagiando** para a Superintedência de Tecnologia da Informação da UFBA. 
 
 ---
