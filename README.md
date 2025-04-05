@@ -12,7 +12,7 @@ Sou **Júlio César**, um estudante de **Ciência da Computação**. Bem vindos 
 
 ### 🌱 Estudando e Aprimorando
 - **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express**, **PostgreSQL** e Tokens de acesso com **JWT**.
-- **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js**, **TypeScript** e trabalhando diretamente com **Drupal**, o CMS em PHP.
+- **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js**, **TypeScript** e trabalhando diretamente com **Drupal**, **HTML** e **CSS** em PHP.
 - Explorando **Ruby on Rails** para pequenos sistemas e pela beleza da linguagem 🤗. 
 - Explorando **containerização** e **deploys** utilizando **Docker** e plataformas como **Vercel** e **Render**.
 
