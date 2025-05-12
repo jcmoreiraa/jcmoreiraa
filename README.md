@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou **Júlio César**, um estudante de **Ciência da Computação**. Bem vindos ao meu perfil!
+Sou **Júlio César**, um estudante de **Ciência da Computação** e faço parte da **TITAN** empresa Júnior de Engenharia da Computação da UFBA. Bem vindos ao meu perfil!
 
 ---
 
@@ -12,9 +12,10 @@ Sou **Júlio César**, um estudante de **Ciência da Computação**. Bem vindos 
 
 ### 🌱 Estudando e Aprimorando
 - **Desenvolvimento Backend**: Trabalhando com **Node.js**, **TypeScript**, **Prisma**, **Express**, **PostgreSQL** e Tokens de acesso com **JWT**.
-- **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js**, **TypeScript** e trabalhando diretamente com **Drupal**, **HTML** e **CSS** em PHP.
-- Explorando **Ruby on Rails** para pequenos sistemas e pela beleza da linguagem 🤗. 
+- **Desenvolvimento Web**: Criando interfaces com **React**, **Next.js**, **TypeScript** e trabalhando diretamente com **Drupal**, **HTML**, **CSS** e **JS** em PHP.
+- Explorando **Ruby on Rails** para pequenos sistemas e pela beleza da linguagem **Ruby** 🤗. 
 - Explorando **containerização** e **deploys** utilizando **Docker** e plataformas como **Vercel** e **Render**.
+- Estudando **Flutter** e **desenvolvimento mobile** no Projeto de Treinamento da minha EJ.
 
 
 
